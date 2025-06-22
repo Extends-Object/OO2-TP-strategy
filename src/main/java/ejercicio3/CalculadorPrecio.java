@@ -22,6 +22,5 @@ public abstract class CalculadorPrecio {
         return total;
     }
 
-
     public abstract void establecerBases(double precioBase);
 }
